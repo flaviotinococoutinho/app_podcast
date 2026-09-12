@@ -1,0 +1,6 @@
+{
+  "name": "PodCraft AI",
+  "description": "Transforme textos em áudios estilo podcast com voz grave realista, remoção de maneirismos, quebra em sessões e exportação em nuvem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
